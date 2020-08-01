@@ -1164,5 +1164,19 @@
             "xda_thread": ""
          }
       ]
+   },
+   {
+      "name": "Mi A2 Lite",
+      "brand": "Xiaomi",
+      "codename": "daisy",
+      "supported_versions": [
+         {
+            "version_code": "pie",
+            "version_name": "Pie",
+            "maintainer_name": "and2droid2u",
+            "maintainer_url": "https://github.com/and2droid2u",
+            "xda_thread": ""
+         }
+      ]
    }
 ]
